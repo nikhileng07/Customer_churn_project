@@ -1,0 +1,36 @@
+✅ Project Progress Checklist:
+✅ Data Loaded
+
+✅ Exploratory Data Analysis (EDA)
+
+Distributions (e.g., tenure, MonthlyCharges, etc.)
+
+Churn counts, gender, contract types, etc.
+
+✅ Data Cleaning
+
+Handled nulls, wrong data types (e.g., TotalCharges)
+
+✅ Feature Engineering
+
+Encoding categorical features
+
+Scaling numerical features
+
+🕐 Model Building (next step?)
+
+Logistic Regression
+
+Decision Tree / Random Forest
+
+XGBoost (optional)
+
+🕐 Model Evaluation
+
+Accuracy, Precision, Recall, F1-score
+
+Confusion Matrix
+
+ROC-AUC Curve
+
+🕐 Final Presentation/Notebook Formatting
